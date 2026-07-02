@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ali Imran 👋</h1>
+<h1 align="center">Hi there, I'm Muhammad Ali 👋</h1>
 
 <h3 align="center">Transforming ideas into scalable web applications with a focus on seamless user experiences, robust backend logic, and clean, maintainable code.</h3>
 
