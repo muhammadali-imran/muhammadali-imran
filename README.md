@@ -1,121 +1,135 @@
 <!-- ═══════════════ HERO ═══════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0e75b6&height=230&section=header&text=Muhammad%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20AI%20%26%20Automation&descSize=20&descAlignY=58&animation=fadeIn" width="100%" />
+  <img src="./assets/banner.svg" width="100%" alt="Muhammad Ali - Web Developer, AI and Automation" />
 
   <h3>I build AI-powered, scalable full-stack web apps that automate repetitive work.</h3>
 
-  <img src="https://komarev.com/ghpvc/?username=muhammadali-imran&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=muhammadali-imran&label=Profile%20Views&color=a855f7&labelColor=0a0a0f&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/muhammadali-imran?tab=followers"><img src="https://img.shields.io/github/followers/muhammadali-imran?style=for-the-badge&logo=github&color=3b82f6&labelColor=0a0a0f" alt="Followers" /></a>
+  <br/>
+  <img src="https://img.shields.io/badge/Open_to-Freelance_%26_Collab-39ff88?style=flat-square&labelColor=0a0a0f" alt="Open to freelance and collaboration" />
+  <img src="https://img.shields.io/badge/Building-AI_Automation_Apps-a855f7?style=flat-square&labelColor=0a0a0f" alt="Building AI automation apps" />
 </div>
 
 <br/>
 
----
+<!-- ═══════════════ ABOUT ═══════════════ -->
+<img src="./assets/header-about.svg" width="100%" alt="About Me" />
+
+<table align="center">
+  <tr>
+    <td align="center" width="230">
+      <img src="https://wsrv.nl/?url=github.com/muhammadali-imran.png&w=200&h=200&fit=cover&mask=circle&output=png" width="170" alt="Muhammad Ali" />
+      <br/><br/>
+      <b>Muhammad Ali</b><br/>
+      <sub>Web Developer</sub>
+      <br/><br/>
+      <a href="https://your-resume-link.com/resume.pdf">
+        <img src="https://img.shields.io/badge/Download-Resume-7c3aed?style=for-the-badge&logo=readme&logoColor=white&labelColor=0a0a0f" alt="Download resume" />
+      </a>
+    </td>
+    <td>
+      Web developer building <b>AI-powered, scalable full-stack applications</b>. I automate repetitive tasks and workflows using <b>LLM APIs</b>, <b>REST integrations</b> and clean backend architecture, paired with a seamless React front end.
+      <br/><br/>
+      🔭 &nbsp;<b>Currently</b> &nbsp; Building AI-powered full-stack web apps<br/>
+      🎯 &nbsp;<b>Focus</b> &nbsp; Workflow automation &amp; task orchestration<br/>
+      🌱 &nbsp;<b>Exploring</b> &nbsp; RAG pipelines, AI agents &amp; tool calling<br/>
+      📍 &nbsp;<b>Location</b> &nbsp; Your City, Country<br/>
+      ⚡ &nbsp;<b>Fun fact</b> &nbsp; I enjoy turning messy ideas into working software
+      <br/><br/>
+      💬 &nbsp;<i>"If a task is repetitive, it should be automated."</i>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════ SKILLS ═══════════════ -->
+<img src="./assets/header-skills.svg" width="100%" alt="Skills and Tools" />
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,py,html,css&theme=dark" alt="Languages" />
+
+**Frameworks & Runtime**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" alt="Frameworks and runtime" />
+
+**Dev Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Dev tools" />
+
+**AI & Automation**
+
+<img src="https://img.shields.io/badge/LLM_APIs-7c3aed?style=for-the-badge&labelColor=0a0a0f" alt="LLM APIs" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-2563eb?style=for-the-badge&labelColor=0a0a0f" alt="Prompt engineering" />
+<img src="https://img.shields.io/badge/Workflow_Automation-39ff88?style=for-the-badge&labelColor=0a0a0f" alt="Workflow automation" />
+<img src="https://img.shields.io/badge/REST_APIs-7c3aed?style=for-the-badge&labelColor=0a0a0f" alt="REST APIs" />
+
+</div>
+
+<br/>
 
 <!-- ═══════════════ PROJECTS ═══════════════ -->
-## 🚀 &nbsp;Featured Projects
+<img src="./assets/header-projects.svg" width="100%" alt="Featured Projects" />
 
 <div align="center">
 <table>
   <tr>
     <td>
-      <a href="https://github.com/muhammadali-imran/DigitalLogicsStudio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadali-imran&repo=DigitalLogicsStudio&theme=tokyonight&bg_color=0f172a&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" />
+      <a href="https://github.com/muhammadali-imran/PROJECT-1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadali-imran&repo=PROJECT-1&bg_color=0a0a0f&border_color=7c3aed&border_radius=12&title_color=a855f7&icon_color=39ff88&text_color=e9d5ff" alt="Project 1" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/muhammadali-imran/CircuitMind">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadali-imran&repo=CircuitMind&theme=tokyonight&bg_color=0f172a&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" />
+      <a href="https://github.com/muhammadali-imran/PROJECT-2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadali-imran&repo=PROJECT-2&bg_color=0a0a0f&border_color=7c3aed&border_radius=12&title_color=a855f7&icon_color=39ff88&text_color=e9d5ff" alt="Project 2" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/muhammadali-imran/Lumina">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadali-imran&repo=Lumina&theme=tokyonight&bg_color=0f172a&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" />
+      <a href="https://github.com/muhammadali-imran/PROJECT-3">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadali-imran&repo=PROJECT-3&bg_color=0a0a0f&border_color=7c3aed&border_radius=12&title_color=a855f7&icon_color=39ff88&text_color=e9d5ff" alt="Project 3" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/muhammadali-imran/CustomerServiceChatbot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadali-imran&repo=CustomerServiceChatbot&theme=tokyonight&bg_color=0f172a&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" />
+      <a href="https://github.com/muhammadali-imran/PROJECT-4">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadali-imran&repo=PROJECT-4&bg_color=0a0a0f&border_color=7c3aed&border_radius=12&title_color=a855f7&icon_color=39ff88&text_color=e9d5ff" alt="Project 4" />
       </a>
     </td>
   </tr>
 </table>
-</div>
-
-<p align="center"><sub>A small selection of my best work. Quality over quantity.</sub></p>
-
----
-
-<!-- ═══════════════ ABOUT ═══════════════ -->
-## 👋 &nbsp;About Me
-
-<table align="center">
-  <tr>
-    <td align="center" width="230">
-      <img src="https://wsrv.nl/?url=github.com/muhammadali-imran.png&mask=circle&w=180&h=180&fit=cover" width="180" alt="Muhammad Ali" />
-      <br/><br/>
-      <a href="https://your-resume-link.com/resume.pdf">
-        <img src="https://img.shields.io/badge/Download-Resume-0e75b6?style=for-the-badge&logo=readme&logoColor=white" />
-      </a>
-    </td>
-    <td>
-      I'm a web developer focused on building <b>AI-powered, scalable full-stack applications</b>.
-      I specialize in <b>automating repetitive tasks and workflows</b> using LLM APIs, REST integrations,
-      and clean backend architecture, paired with seamless front-end experiences.
-      <br/><br/>
-      🔭 <b>Currently:</b> building AI-powered full-stack web apps<br/>
-      🎯 <b>Focus:</b> workflow automation &amp; task orchestration<br/>
-      🌱 <b>Exploring:</b> RAG pipelines, AI agents &amp; tool calling<br/>
-      💬 <b>Philosophy:</b> <i>"If a task is repetitive, it should be automated."</i>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-
-**Core Skills & Tools**
-
-<img src="https://skillicons.dev/icons?i=js,py,nodejs,express,react,html,css,git,github,vscode&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/LLM%20APIs-0f172a?style=for-the-badge&logo=openai&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/REST%20APIs-0f172a?style=for-the-badge&logo=fastapi&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/Automation-0f172a?style=for-the-badge&logo=githubactions&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-0f172a?style=for-the-badge&logo=anthropic&logoColor=38bdf8" />
-
-</div>
-
----
-
-<!-- ═══════════════ STATS ═══════════════ -->
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadali-imran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadali-imran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=muhammadali-imran&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadali-imran&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=38bdf8&line=1e3a8a&point=ffffff" width="95%" />
-</div>
-
----
-
-<!-- ═══════════════ CONTACT ═══════════════ -->
-## 📫 &nbsp;Contact
-
-<div align="center">
-  <a href="mailto:imranmuhammadali633@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/muhammadali-imran1972"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8" /></a>
+<sub>A small selection of my best work. Quality over quantity.</sub>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" />
+<!-- ═══════════════ STATS ═══════════════ -->
+<img src="./assets/header-stats.svg" width="100%" alt="GitHub Stats" />
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=muhammadali-imran&show_icons=true&rank_icon=github&bg_color=0a0a0f&border_color=7c3aed&border_radius=12&title_color=a855f7&icon_color=39ff88&text_color=e9d5ff" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadali-imran&layout=compact&langs_count=6&bg_color=0a0a0f&border_color=7c3aed&border_radius=12&title_color=a855f7&text_color=e9d5ff" alt="Most used languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=muhammadali-imran&background=0a0a0f&border=7c3aed&border_radius=12&stroke=7c3aed&ring=39ff88&fire=a855f7&currStreakLabel=39ff88&currStreakNum=e9d5ff&sideNums=e9d5ff&sideLabels=a78bfa&dates=6d28d9" alt="GitHub streak" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadali-imran&bg_color=0a0a0f&color=a855f7&line=7c3aed&point=39ff88&area=true&area_color=3b0764&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution graph" />
+</div>
+
+<br/>
+
+<!-- ═══════════════ CONTACT ═══════════════ -->
+<img src="./assets/header-contact.svg" width="100%" alt="Contact" />
+
+<div align="center">
+  <a href="mailto:your-professional-email@example.com"><img src="https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=3b82f6" alt="LinkedIn" /></a>
+  <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portfolio-0a0a0f?style=for-the-badge&logo=googlechrome&logoColor=39ff88" alt="Portfolio" /></a>
+</div>
+
+<br/>
+
+<img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by" />
