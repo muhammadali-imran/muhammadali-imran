@@ -19,9 +19,9 @@ jobs:
         env:
           # Start with the built-in token (no setup needed).
           # If the run fails with an auth/permission error, create a personal
-          # access token, save it as a repo secret named SUMMARY_GITHUB_TOKEN,
-          # and change this line to: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # access token, save it as a repo secret named SUMMARY_SUMMARY_GITHUB_TOKEN,
+          # and change this line to: ${{ secrets.SUMMARY_SUMMARY_GITHUB_TOKEN }}
+          SUMMARY_GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "main"

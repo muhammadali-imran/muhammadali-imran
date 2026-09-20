@@ -111,12 +111,14 @@
 <img src="./assets/header-stats.svg" width="100%" alt="GitHub Stats" />
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=muhammadali-imran&show_icons=true&rank_icon=github&bg_color=0a0a0f&border_color=7c3aed&border_radius=12&title_color=a855f7&icon_color=39ff88&text_color=e9d5ff" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadali-imran&layout=compact&langs_count=6&bg_color=0a0a0f&border_color=7c3aed&border_radius=12&title_color=a855f7&text_color=e9d5ff" alt="Most used languages" />
+  <img src="./profile-summary-card-output/dracula/0-profile-details.svg" width="49%" alt="Profile details" />
+  <img src="./profile-summary-card-output/dracula/3-stats.svg" width="49%" alt="GitHub stats" />
+  <br/>
+  <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" width="32%" alt="Repos per language" />
+  <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" width="32%" alt="Most used language in commits" />
+  <img src="./profile-summary-card-output/dracula/4-productive-time.svg" width="32%" alt="Productive time" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=muhammadali-imran&background=0a0a0f&border=7c3aed&border_radius=12&stroke=7c3aed&ring=39ff88&fire=a855f7&currStreakLabel=39ff88&currStreakNum=e9d5ff&sideNums=e9d5ff&sideLabels=a78bfa&dates=6d28d9" alt="GitHub streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadali-imran&bg_color=0a0a0f&color=a855f7&line=7c3aed&point=39ff88&area=true&area_color=3b0764&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution graph" />
 </div>
 
 <br/>
