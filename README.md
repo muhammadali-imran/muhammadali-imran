@@ -37,7 +37,7 @@
       📍 &nbsp;<b>Location</b> &nbsp; Your City, Country<br/>
       ⚡ &nbsp;<b>Fun fact</b> &nbsp; I enjoy turning messy ideas into working software
       <br/><br/>
-      💬 &nbsp;<i>"If a task is repetitive, it should be automated."</i>
+      💬 &nbsp;<i>"If a task is repetitive, it can be automated."</i>
     </td>
   </tr>
 </table>
@@ -79,8 +79,8 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/muhammadali-imran/PROJECT-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadali-imran&repo=PROJECT-1&bg_color=0a0a0f&border_color=7c3aed&border_radius=12&title_color=a855f7&icon_color=39ff88&text_color=e9d5ff" alt="Project 1" />
+      <a href="https://github.com/muhammadali-imran/DigitalLogicsStudio">
+        <img src="https://digital-logics-studio-xi.vercel.app/api/pin/?username=muhammadali-imran&repo=DigitalLogicsStudio&bg_color=0a0a0f&border_color=7c3aed&border_radius=12&title_color=a855f7&icon_color=39ff88&text_color=e9d5ff" alt="DigitalLogicsStudio" />
       </a>
     </td>
     <td>
