@@ -129,7 +129,7 @@
 <div align="center">
   <a href="mailto:imranmuhammadali633@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email" /></a>
   <a href="https://linkedin.com/in/muhammadali-imran1972"><img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=3b82f6" alt="LinkedIn" /></a>
-  <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portfolio-0a0a0f?style=for-the-badge&logo=googlechrome&logoColor=39ff88" alt="Portfolio" /></a>
+  <a href="https://portfolio-4xn93jp7k-imranmuhammadali633-5556s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a0a0f?style=for-the-badge&logo=googlechrome&logoColor=39ff88" alt="Portfolio" /></a>
 </div>
 
 <br/>
